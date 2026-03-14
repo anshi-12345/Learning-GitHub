@@ -1,6 +1,5 @@
 # Learning-GitHub
-How to use Git and GitHub.
 
-This is for the Saturday Class.
+How to use Git and GitHub for the Saturday Class.
 
 :)
